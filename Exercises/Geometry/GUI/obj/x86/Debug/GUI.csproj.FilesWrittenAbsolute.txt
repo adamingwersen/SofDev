@@ -1,6 +1,0 @@
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/GUI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/GUI/obj/x86/Debug/GUI.gtk-gui.gui.stetic
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/GUI/bin/Debug/GUI.exe.mdb
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/GUI/bin/Debug/GUI.exe
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/GUI/obj/x86/Debug/GUI.exe
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/GUI/obj/x86/Debug/GUI.exe.mdb

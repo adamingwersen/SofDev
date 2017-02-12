@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{public} \PYG{k}{override} \PYG{k+kt}{bool} \PYG{n+nf}{Equals}\PYG{p}{(}\PYG{n}{Object} \PYG{n}{struc}\PYG{p}{)}
+\PYG{p}{\PYGZob{}}
+    \PYG{k}{if} \PYG{p}{(}\PYG{n}{struc} \PYG{p}{==} \PYG{k}{null} \PYG{p}{||} \PYG{n}{GetType}\PYG{p}{()} \PYG{p}{!=} \PYG{n}{struc}\PYG{p}{.}\PYG{n}{GetType}\PYG{p}{())}
+        \PYG{k}{return} \PYG{k}{false}\PYG{p}{;}
+    \PYG{n}{Vertex} \PYG{n}{p} \PYG{p}{=} \PYG{p}{(}\PYG{n}{Vertex}\PYG{p}{)}\PYG{n}{struc}\PYG{p}{;}
+    \PYG{k}{return} \PYG{p}{(}\PYG{n}{x} \PYG{p}{==} \PYG{n}{p}\PYG{p}{.}\PYG{n}{x}\PYG{p}{)} \PYG{p}{\PYGZam{}\PYGZam{}} \PYG{p}{(}\PYG{n}{y} \PYG{p}{==} \PYG{n}{p}\PYG{p}{.}\PYG{n}{y}\PYG{p}{);}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

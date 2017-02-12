@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{n}{Vertex} \PYG{n}{test} \PYG{p}{=} \PYG{k}{new} \PYG{n}{Vertex}\PYG{p}{(}\PYG{l+m}{1}\PYG{p}{,}\PYG{l+m}{2}\PYG{p}{);}
+\end{Verbatim}

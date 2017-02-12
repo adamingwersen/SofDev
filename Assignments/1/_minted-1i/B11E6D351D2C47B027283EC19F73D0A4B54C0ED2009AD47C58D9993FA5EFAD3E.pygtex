@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{public} \PYG{k}{static} \PYG{k+kt}{bool} \PYG{k}{operator} \PYG{p}{==(}\PYG{n}{Vertex} \PYG{n}{l}\PYG{p}{,} \PYG{n}{Vertex} \PYG{n}{r}\PYG{p}{)}
+\PYG{p}{\PYGZob{}}
+    \PYG{k}{return} \PYG{n+nf}{Equals}\PYG{p}{(}\PYG{n}{l}\PYG{p}{,} \PYG{n}{r}\PYG{p}{);}
+\PYG{p}{\PYGZcb{}}
+
+\PYG{k}{public} \PYG{k}{static} \PYG{k+kt}{bool} \PYG{k}{operator} \PYG{p}{!=(}\PYG{n}{Vertex} \PYG{n}{l}\PYG{p}{,} \PYG{n}{Vertex} \PYG{n}{r}\PYG{p}{)}
+\PYG{p}{\PYGZob{}}
+    \PYG{k}{return} \PYG{p}{!}\PYG{n}{Equals}\PYG{p}{(}\PYG{n}{l}\PYG{p}{,} \PYG{n}{r}\PYG{p}{);}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

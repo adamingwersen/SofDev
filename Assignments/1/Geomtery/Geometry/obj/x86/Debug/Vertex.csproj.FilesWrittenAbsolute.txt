@@ -1,0 +1,5 @@
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/1/Geomtery/Geometry/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/1/Geomtery/Geometry/bin/Debug/Geometry.exe.mdb
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/1/Geomtery/Geometry/bin/Debug/Geometry.exe
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/1/Geomtery/Geometry/obj/x86/Debug/Geometry.exe
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/1/Geomtery/Geometry/obj/x86/Debug/Geometry.exe.mdb

@@ -1,0 +1,15 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{public} \PYG{k}{struct} \PYG{n+nc}{Vertex}
+\PYG{p}{\PYGZob{}}
+    \PYG{k}{public} \PYG{k+kt}{int} \PYG{n}{x}\PYG{p}{,} \PYG{n}{y}\PYG{p}{;}
+    \PYG{k}{public} \PYG{n+nf}{Vertex}\PYG{p}{(}\PYG{k+kt}{int} \PYG{n}{x}\PYG{p}{,} \PYG{k+kt}{int} \PYG{n}{y}\PYG{p}{)}
+    \PYG{p}{\PYGZob{}}
+        \PYG{k}{this}\PYG{p}{.}\PYG{n}{x} \PYG{p}{=} \PYG{n}{x}\PYG{p}{;}
+        \PYG{k}{this}\PYG{p}{.}\PYG{n}{y} \PYG{p}{=} \PYG{n}{y}\PYG{p}{;}
+    \PYG{p}{\PYGZcb{}}
+    \PYG{k}{public} \PYG{k}{override} \PYG{k+kt}{string} \PYG{n+nf}{ToString}\PYG{p}{()}
+    \PYG{p}{\PYGZob{}}
+        \PYG{k}{return}\PYG{p}{(}\PYG{n}{String}\PYG{p}{.}\PYG{n}{Format}\PYG{p}{(}\PYG{l+s}{\PYGZdq{}(\PYGZob{}0\PYGZcb{},\PYGZob{}1\PYGZcb{})\PYGZdq{}}\PYG{p}{,} \PYG{n}{x}\PYG{p}{,} \PYG{n}{y}\PYG{p}{));}
+    \PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

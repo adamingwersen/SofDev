@@ -1,5 +1,0 @@
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/TUI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/TUI/bin/Debug/TUI.exe.mdb
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/TUI/bin/Debug/TUI.exe
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/TUI/obj/x86/Debug/TUI.exe
-/home/adam/Documents/Uni/CompSci/SofDev/Exercises/Geometry/TUI/obj/x86/Debug/TUI.exe.mdb
