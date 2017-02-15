@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="TUI/TUI.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Geometry/Vertex.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TUI/Program.cs">
     <Files>
-      <File FileName="Geometry/Vertex.cs" Line="25" Column="1" />
-      <File FileName="TUI/Program.cs" Line="26" Column="63" />
+      <File FileName="Geometry/Vertex.cs" Line="33" Column="2" />
+      <File FileName="TUI/Program.cs" Line="21" Column="57" />
       <File FileName="GUI/Program.cs" Line="1" Column="1" />
       <File FileName="GUI/MainWindow.cs" Line="20" Column="38" />
     </Files>

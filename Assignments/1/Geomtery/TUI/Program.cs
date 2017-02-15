@@ -18,7 +18,7 @@ namespace TUI
             Console.WriteLine ("a == b : {0}", a == b);
             Console.WriteLine ("a == a : {0}", a == a);
             Console.WriteLine ("a != a : {0}",a != a);
-            Console.WriteLine ("a != b : {0}",a != b);
+            Console.WriteLine ("a != b : {0}",a != b);  
 
             Console.WriteLine ("\nComparing using the overridden Equals() operator:\n");
 

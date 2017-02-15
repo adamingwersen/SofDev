@@ -1,0 +1,7 @@
+public override bool Equals(Object struc)
+{
+    if (struc == null || GetType() != struc.GetType())
+        return false;
+    Vertex p = (Vertex)struc;
+    return (x == p.x) && (y == p.y);
+}
