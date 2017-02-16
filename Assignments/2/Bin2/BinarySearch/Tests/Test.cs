@@ -34,19 +34,21 @@ namespace Tests
             }
         }
         [Test ()]
+
+        public int sumLinEval = 0;
+        public int sumBinEval = 0;
+
         public void TestBinaryVsLinear ()
         {
             Generator testGen = new Generator ();
 
-            int sumLinEval = 0;
-            int sumBinEval = 0;
-
             for (int i = 0; i == 25; i++)
             {
                 int searchVal = testGen.NextInt (25);
-                sumLinEval = sumLinEval + Search.Linear (testGen.NextArray (25, 25), searchVal);
-                sumBinEval = sumBinEval + Search.Binary (testGen.NextArray (25, 25), searchVal);
+                sumLinEval += Search.Linear (testGen.NextArray (25, 25), searchVal);
+                sumBinEval += Search.Binary (testGen.NextArray (25, 25), searchVal);
             }
+
 
             Assert.Less (sumLinEval, sumBinEval);
         }

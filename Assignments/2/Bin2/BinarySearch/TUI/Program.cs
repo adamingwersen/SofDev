@@ -28,6 +28,13 @@ namespace TUI
             }
             // Console.WriteLine (Search.Linear (array, 11));
             // Console.WriteLine (Search.Binary (new IComparable [] { 3, 4, 5, 6, 7, 8, 9 }, 5));
+            Generator testGen = new Generator ();
+            int searchVal = testGen.NextInt (25);
+            Console.WriteLine ();
+            Console.WriteLine (searchVal);
+            Console.WriteLine(Search.Linear (testGen.NextArray (50, 25), searchVal));
+            Console.WriteLine(Search.Binary (testGen.NextArray (50, 25), searchVal));
+            Console.WriteLine ();
         }
 
         public static void Main (string[] args)

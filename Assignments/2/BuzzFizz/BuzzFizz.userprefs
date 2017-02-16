@@ -6,23 +6,9 @@
       <File FileName="Library/Buzzer.cs" Line="1" Column="1" />
       <File FileName="../Fizzbuzz/Library/MyClass.cs" Line="1" Column="1" />
       <File FileName="../Fizzbuzz/Fizzbuzz/Program.cs" Line="1" Column="1" />
-      <File FileName="Tests/Test.cs" Line="30" Column="1" />
+      <File FileName="Tests/Test.cs" Line="20" Column="54" />
     </Files>
     <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="BuzzFizz" expanded="True">
-            <Node name="BuzzFizz" expanded="True">
-              <Node name="References" expanded="True" />
-            </Node>
-            <Node name="Library" expanded="True" />
-            <Node name="Tests" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Test.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
       <Pad Id="MonoDevelop.NUnit.TestPad">
         <State name="__root__">
           <Node name="BuzzFizz" expanded="True">
