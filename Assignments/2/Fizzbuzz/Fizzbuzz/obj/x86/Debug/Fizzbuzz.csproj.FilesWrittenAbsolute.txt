@@ -1,0 +1,7 @@
+/Users/Petie/Projects/Fizzbuzz/Fizzbuzz/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Petie/Projects/Fizzbuzz/Fizzbuzz/bin/Debug/Fizzbuzz.exe.mdb
+/Users/Petie/Projects/Fizzbuzz/Fizzbuzz/bin/Debug/Fizzbuzz.exe
+/Users/Petie/Projects/Fizzbuzz/Fizzbuzz/obj/x86/Debug/Fizzbuzz.exe
+/Users/Petie/Projects/Fizzbuzz/Fizzbuzz/obj/x86/Debug/Fizzbuzz.exe.mdb
+/Users/Petie/Projects/Fizzbuzz/Fizzbuzz/bin/Debug/Library.dll
+/Users/Petie/Projects/Fizzbuzz/Fizzbuzz/bin/Debug/Library.dll.mdb

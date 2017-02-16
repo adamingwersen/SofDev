@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fizzbuzz", "Fizzbuzz\Fizzbuzz.csproj", "{C754575F-A96B-4EB0-B9AA-B0CF9AB081EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{324BEB1C-55A7-43A0-BA2F-345D1C99415C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C754575F-A96B-4EB0-B9AA-B0CF9AB081EE}.Debug|x86.ActiveCfg = Debug|x86
+		{C754575F-A96B-4EB0-B9AA-B0CF9AB081EE}.Debug|x86.Build.0 = Debug|x86
+		{C754575F-A96B-4EB0-B9AA-B0CF9AB081EE}.Release|x86.ActiveCfg = Release|x86
+		{C754575F-A96B-4EB0-B9AA-B0CF9AB081EE}.Release|x86.Build.0 = Release|x86
+		{324BEB1C-55A7-43A0-BA2F-345D1C99415C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{324BEB1C-55A7-43A0-BA2F-345D1C99415C}.Debug|x86.Build.0 = Debug|Any CPU
+		{324BEB1C-55A7-43A0-BA2F-345D1C99415C}.Release|x86.ActiveCfg = Release|Any CPU
+		{324BEB1C-55A7-43A0-BA2F-345D1C99415C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

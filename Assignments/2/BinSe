@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5ECEE7E7-C134-4B73-A6E9-55D1361C43E9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/Search.cs">
+    <Files>
+      <File FileName="TUI/Program.cs" Line="19" Column="54" />
+      <File FileName="Library/Search.cs" Line="13" Column="29" />
+      <File FileName="Library/Generator.cs" Line="13" Column="9" />
+      <File FileName="Tests/Test.cs" Line="26" Column="107" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TUI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

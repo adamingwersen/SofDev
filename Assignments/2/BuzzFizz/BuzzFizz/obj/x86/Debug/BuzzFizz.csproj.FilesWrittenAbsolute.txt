@@ -1,0 +1,10 @@
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/bin/Debug/BuzzFizz.exe.mdb
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/bin/Debug/BuzzFizz.exe
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/obj/x86/Debug/BuzzFizz.exe
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/obj/x86/Debug/BuzzFizz.exe.mdb
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/bin/Debug/Library.dll
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/bin/Debug/Library.dll.mdb
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/bin/Debug/Tests.dll
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/bin/Debug/Tests.dll.mdb
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BuzzFizz/BuzzFizz/bin/Debug/nunit.framework.dll
