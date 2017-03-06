@@ -6,7 +6,7 @@
       <File FileName="Library/Buzzer.cs" Line="1" Column="1" />
       <File FileName="../Fizzbuzz/Library/MyClass.cs" Line="1" Column="1" />
       <File FileName="../Fizzbuzz/Fizzbuzz/Program.cs" Line="1" Column="1" />
-      <File FileName="Tests/Test.cs" Line="20" Column="54" />
+      <File FileName="Tests/Test.cs" Line="18" Column="55" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">

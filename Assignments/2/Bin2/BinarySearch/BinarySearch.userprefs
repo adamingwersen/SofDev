@@ -1,12 +1,15 @@
 ﻿<Properties StartupConfiguration="{5ECEE7E7-C134-4B73-A6E9-55D1361C43E9}|Default" StartupItem="TUI/TUI.csproj">
   <MonoDevelop.Ide.Workbench ActiveDocument="Tests/Test.cs">
     <Files>
-      <File FileName="Tests/Test.cs" Line="37" Column="42" />
+      <File FileName="Tests/Test.cs" Line="40" Column="9" />
+      <File FileName="TUI/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">
         <State name="__root__">
-          <Node name="BinarySearch" expanded="True" selected="True" />
+          <Node name="BinarySearch" expanded="True">
+            <Node name="Tests" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
