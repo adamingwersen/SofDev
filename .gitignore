@@ -1,4 +1,5 @@
 ### Filetypes to ignore:
 *.pdf
 *.exe
+*.flatpakref
 
