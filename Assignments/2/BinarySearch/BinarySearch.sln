@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUI", "TUI\TUI.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{CBD9AF36-A7C3-483F-8FB8-9041BDB5A290}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{35DA7C70-56A7-462F-9C75-91CA2E2F033B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{29733D49-8EB9-40AF-A9C7-81355FAF800B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +13,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{35DA7C70-56A7-462F-9C75-91CA2E2F033B}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{35DA7C70-56A7-462F-9C75-91CA2E2F033B}.Debug|x86.Build.0 = Debug|Any CPU
-		{35DA7C70-56A7-462F-9C75-91CA2E2F033B}.Release|x86.ActiveCfg = Release|Any CPU
-		{35DA7C70-56A7-462F-9C75-91CA2E2F033B}.Release|x86.Build.0 = Release|Any CPU
 		{5ECEE7E7-C134-4B73-A6E9-55D1361C43E9}.Debug|x86.ActiveCfg = Debug|x86
 		{5ECEE7E7-C134-4B73-A6E9-55D1361C43E9}.Debug|x86.Build.0 = Debug|x86
 		{5ECEE7E7-C134-4B73-A6E9-55D1361C43E9}.Release|x86.ActiveCfg = Release|x86
@@ -25,6 +21,10 @@ Global
 		{CBD9AF36-A7C3-483F-8FB8-9041BDB5A290}.Debug|x86.Build.0 = Debug|Any CPU
 		{CBD9AF36-A7C3-483F-8FB8-9041BDB5A290}.Release|x86.ActiveCfg = Release|Any CPU
 		{CBD9AF36-A7C3-483F-8FB8-9041BDB5A290}.Release|x86.Build.0 = Release|Any CPU
+		{29733D49-8EB9-40AF-A9C7-81355FAF800B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{29733D49-8EB9-40AF-A9C7-81355FAF800B}.Debug|x86.Build.0 = Debug|Any CPU
+		{29733D49-8EB9-40AF-A9C7-81355FAF800B}.Release|x86.ActiveCfg = Release|Any CPU
+		{29733D49-8EB9-40AF-A9C7-81355FAF800B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0

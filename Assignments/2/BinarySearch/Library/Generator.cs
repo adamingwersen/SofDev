@@ -13,11 +13,18 @@ namespace Library
 
         private Random rand;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="T:Library.Generator"/> class.
+        /// </summary>
         public Generator()
         {
             this.rand = new Random ();
         }
-
+        /// <summary>
+        /// Gets the next random value, from the interval [0;maxvalue].
+        /// </summary>
+        /// <returns>An integer in the interval [0;maxvalue]. </returns>
+        /// <param name="maxValue">Max value. The max value the int is allowed to have. </param>
         public int NextInt(int maxValue)
         {
             return this.rand.Next (maxValue);
@@ -54,6 +61,11 @@ namespace Library
             Array.Sort(array); // sorts the array, so we can use Binary search on it.
 
             return array;
+        }
+
+        public ComparisonCountedInt [] ComparisonArray ()
+        {
+            
         }
     }
 }

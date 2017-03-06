@@ -36,6 +36,7 @@
     <Compile Include="Generator.cs" />
     <Compile Include="Search.cs" />
     <Compile Include="Show.cs" />
+    <Compile Include="ComparisonCountedInt.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
