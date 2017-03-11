@@ -58,20 +58,24 @@ namespace Tests
             }
         }
 
-        [SetUp ()]
-        public void TestRunningTime ()
-        {
-            Generator gen = new Generator ();
-            var sortedArray = (gen.NextArray (10, 10));
-        }
-
         [Test ()]
         /// <summary>
         /// Tests the Binary Search algoritm, we use the IComparable class to check how many comparisons we make, which should be less than [1+log_2(n)]. 
         /// </summary>
         public void TestRunningTime () // fejler: specified cast is not valid
         {
-           
+            int _n = 1000;
+
+            Generator gen = new Generator ();
+
+            var sortedArray = (gen.NextArray (_n, _n));
+            ComparisonCountedInt [] _testArray = gen.ComparisonArray (sortedArray);
+
+            var runtime = ComparisonCountedInt.CountComparisons (_testArray);
+            var logruntime = (Math.Ceiling (Math.Log ((double)_n, 2.0)));
+
+            Assert.AreNotEqual (logruntime, runtime);
+
         }
 
         [Test ()]

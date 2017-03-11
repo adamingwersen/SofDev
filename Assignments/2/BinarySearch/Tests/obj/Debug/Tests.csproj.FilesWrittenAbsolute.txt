@@ -14,3 +14,11 @@
 /Users/Petie/Projects/BinarySearch/Tests/bin/Debug/nunit.framework.dll
 /Users/Petie/Projects/BinarySearch/Tests/bin/Debug/SearchLibrary.dll
 /Users/Petie/Projects/BinarySearch/Tests/bin/Debug/SearchLibrary.dll.mdb
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BinarySearch/Tests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BinarySearch/Tests/obj/Debug/Tests.dll
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BinarySearch/Tests/obj/Debug/Tests.dll.mdb
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BinarySearch/Tests/bin/Debug/nunit.framework.dll
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BinarySearch/Tests/bin/Debug/SearchLibrary.dll
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BinarySearch/Tests/bin/Debug/SearchLibrary.dll.mdb
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BinarySearch/Tests/bin/Debug/Tests.dll.mdb
+/home/adam/Documents/Uni/CompSci/SofDev/Assignments/2/BinarySearch/Tests/bin/Debug/Tests.dll
